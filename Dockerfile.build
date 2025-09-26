@@ -6,7 +6,7 @@
 # Website:          https://blissos.org
 # Usage:            https://github.com/sickcodes/dock-droid/build
 
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 SHELL ["/bin/bash", "-c"]
 
